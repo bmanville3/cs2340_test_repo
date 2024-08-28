@@ -1,1 +1,1 @@
-This is going to create a merge conflict
+Fixing the merge conflicting by deleting everything wooo
